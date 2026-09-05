@@ -5,3 +5,4 @@ worked alonged docker system
 +++++++++++++   
 worked with claude system and docker
 worked with metadata and database systtem
+most favourable things are done and prespective taken of my project
